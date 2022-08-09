@@ -1,0 +1,50 @@
+.box{
+    background-color: white;
+    width: 410px;
+    height: 480px;
+    margin:auto
+}
+body{
+    background-color: black;
+}
+.headerbox{
+    display: flex;
+}
+.fa-instagram{
+    margin-top: 26px;
+    font-size: 32px;
+    margin-left: 7px;
+    margin-right: 5px;
+}
+.fa-ellipsis-vertical{
+    margin-top: 25px;
+    font-size: 32px;
+    margin-left: 240px;
+}
+.boxicons{
+    display: flex;
+    margin-left: 3px;
+}
+.fa-heart{
+    font-size: 35px;
+    margin: 3px;
+}
+.fa-comment{
+    font-size: 35px;
+    margin: 3px;
+}
+.fa-paper-plane{
+    font-size: 35px;
+    margin: 3px;
+}
+.fa-bookmark{
+    font-size: 35px;
+    margin-left: 240px;
+    margin-top: 5px;
+}
+.textbody{
+    margin-left: 3px
+}
+.likes{
+    margin-left: 3px;
+}
